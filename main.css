@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee");
+
+body {
+  font-family: "Bungee", cursive;
+  height: 100vh;
+  text-align: center;
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+#box {
+  display: none;
+}
+
+.content {
+  font-size: 25pt;
+}
+
+h1 {
+  color: white;
+}
